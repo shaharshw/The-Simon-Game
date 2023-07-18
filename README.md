@@ -2,6 +2,7 @@ This project is a part of the "The Complete 2023 Web Development Bootcamp" cours
 
 # The Simon Game
 https://shaharshw.github.io/The-Simon-Game/
+
 This project is a digital implementation of the classic memory game called "Simon Game." It tests your memory and pattern recognition skills by challenging you to repeat a sequence of randomly generated colors and sounds.
 
 # Game Description
